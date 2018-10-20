@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beppe Geerts Grafisch ontwerp 2BA ",
-    "currentPage": "index.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 10,
+    "uniqCompNum": 8,
     "versionPublish": "4.8.3",
     "favicon": "@PROJECT_PATH@/assets/images/25511074-1611442562232825-169079367-o-128x175.png",
     "noImageResize": "true",
@@ -5669,13 +5669,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-20.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-20-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-22.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-22-358x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sympathieke",
@@ -5688,7 +5688,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sympathieke",
