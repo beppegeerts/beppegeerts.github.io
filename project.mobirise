@@ -1184,214 +1184,6 @@
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
                 "active": false
-              },
-              {
-                "tags": "Sympathieke",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-26-1701x2382.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-26-1701x2382-800x1120.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-27-1914x2679.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-27-1914x2679-800x1120.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-28-1575x2205.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-28-1575x2205-800x1120.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/doodsprentje-1028x1488.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/doodsprentje-1028x1488-800x1158.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/labels-636x1232.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/labels-636x1232-636x1232.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/binnenhoes-1804x938.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/binnenhoes-1804x938-800x416.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/buitenhoes-1790x898.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buitenhoes-1790x898-800x401.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p1-930x1266.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p1-930x1266-800x1089.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p2-926x1266.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p2-926x1266-800x1094.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p3-906x1258.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p3-906x1258-800x1111.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krantje-p4-858x1194.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krantje-p4-858x1194-800x1113.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krantje-p5-868x1194.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krantje-p5-868x1194-800x1100.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p6-922x1250.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p6-922x1250-800x1085.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p7-904x1256.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p7-904x1256-800x1112.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p-8-904x1258.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p-8-904x1258-800x1113.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/krant-p-8-904x1258.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/krant-p-8-904x1258-800x1113.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": true
               }
             ]
           },
@@ -2393,7 +2185,7 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#ffffff\">\n        <input type=\"checkbox\" title=\"Overlay met kleurovergang\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay kleur 1\" name=\"overlayColor2\" value=\"#ffffff\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay kleur 2\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Galerij\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#ffffff\">\n        <input type=\"checkbox\" title=\"Overlay met kleurovergang\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay kleur 1\" name=\"overlayColor2\" value=\"#ffffff\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay kleur 2\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Galerij\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\"></div>\n    </div>\n\n</section>",
           "_cid": "ra1ENVgdcj",
           "_protectedParams": [
             "text_all",
@@ -2413,21 +2205,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/go-1-opdracht-1-1816x1276.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/go-1-opdracht-1-1816x1276-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playlist-dark-radio-938x1326.png",
+                "thumb": "@PROJECT_PATH@/assets/images/playlist-dark-radio-938x1326-800x1131.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sympathieke",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-1-1575x2205.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-1-1575x2205-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.03.22-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.03.22-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2439,8 +2231,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-6-1749x2470.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-6-1749x2470-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.03.49-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.03.49-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2452,8 +2244,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-20-2000x2791.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-20-2000x2791-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.04.11-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.04.11-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2465,8 +2257,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-24-827x1158.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-24-827x1158-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.04.32-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.04.32-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2478,39 +2270,39 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-25-835x1169.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-25-835x1169-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.05.28-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.05.28-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sympathieke",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-26-1701x2382.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-26-1701x2382-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.05.45-1638x1054.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-11-21-om-12.05.45-1638x1054-800x515.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-27-1914x2679.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feestdagen-laatste-versie-pagina-27-1914x2679-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vlag-piratenzender-af-2000x1400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vlag-piratenzender-af-2000x1400-800x560.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2523,7 +2315,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2536,7 +2328,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2549,7 +2341,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2562,7 +2354,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2575,7 +2367,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2588,7 +2380,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2601,7 +2393,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2614,7 +2406,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2627,7 +2419,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2640,7 +2432,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2653,7 +2445,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2666,7 +2458,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2679,7 +2471,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bewegende",
@@ -2692,7 +2484,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               }
             ]
           },
