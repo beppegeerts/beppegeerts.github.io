@@ -43,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Fugaz One', display;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.6rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1378,17 +1378,19 @@ body {
   display: none;
 }
 .cid-r9ogwEaiLW {
-  background-image: url("../../../assets/images/wolken-2-2000x1500.jpg");
+  background-image: url("../../../assets/images/1ste-kaartje-1.jpg");
 }
 .cid-r9ogwEaiLW I {
   color: #073b4c;
 }
 .cid-r9ogwEaiLW H1 {
-  color: #08577b;
+  color: #ffffff;
+  text-align: right;
 }
 .cid-r9ogwEaiLW .mbr-text,
 .cid-r9ogwEaiLW .mbr-section-btn {
-  color: #08577b;
+  color: #ffffff;
+  text-align: right;
 }
 .cid-ra1BKuvJsB .navbar {
   padding: .5rem 0;
@@ -2271,6 +2273,134 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #ffffff, #ffffff) !important;
+}
+.cid-raHeDoxZl4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-raHeDoxZl4 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-raHeDoxZl4 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-raHeDoxZl4 .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-raHhwiTWeD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-raHhwiTWeD .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-raHhwiTWeD .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-raHhwiTWeD .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-raHhwiTWeD H1 {
+  text-align: center;
+}
+.cid-raHhthwR4i {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-raHhthwR4i .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-raHhthwR4i .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-raHhthwR4i .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-raHhthwR4i .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-raHhthwR4i .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #232323;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #232323, #45505b) !important;
+}
+.cid-raHhthwR4i .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-raHhthwR4i .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-raHhthwR4i .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-raHhthwR4i .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #232323 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #232323, #45505b) !important;
+}
+.cid-raHjzyDjwW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-raHjzyDjwW .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-raHjzyDjwW .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-raHjzyDjwW .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-r9olclPwCz {
   background-image: url("../../../assets/images/wolken-2-2000x1500.jpg");
